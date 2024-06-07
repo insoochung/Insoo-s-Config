@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://docs.google.com/spreadsheets/d/1T2riWMQhaTduacfwPmopKyMNlAhx4lguD81ugVvhtc4",
+      "displayName": "hundred-pushups",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 0.7,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}

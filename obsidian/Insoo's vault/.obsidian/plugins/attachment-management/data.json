@@ -1,0 +1,27 @@
+{
+  "attachPath": {
+    "attachmentRoot": "_assets",
+    "saveAttE": "nextToNote",
+    "attachmentPath": "${notename}",
+    "attachFormat": "${date}",
+    "type": "GLOBAL",
+    "extensionOverride": [
+      {
+        "extension": "",
+        "attachmentRoot": "(z) Assets",
+        "saveAttE": "obsFolder",
+        "attachmentPath": "${notename}",
+        "attachFormat": "${date}"
+      }
+    ]
+  },
+  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}

@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "401973eefb91ee17",
+    "type": "split",
+    "children": [
+      {
+        "id": "a368bedc98cf6846",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbeca83811f4c342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - Rough Notes/US taxes.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9dd08d60eaf5ec66",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "5242cd7947992de9",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "9a39e1f432f6b4a0",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "7378632575d44c88",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "4f3e6db0c4e8bb5a",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "4f2f9571b47f7895",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "b013c8cb761ad944",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "1 - Rough Notes/US taxes.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "2254494da35986ef",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1 - Rough Notes/US taxes.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "97fd91700279d5e2",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1 - Rough Notes/US taxes.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "file-cleaner-redux:Clean files": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "fbeca83811f4c342",
+  "lastOpenFiles": [
+    "1 - Rough Notes/Move to Menlo Park - Summer 2024.md",
+    "1 - Rough Notes/TODO list.md",
+    "0 - Daily Notes/2024-05-15.md",
+    "1 - Rough Notes/100 pushups program.md",
+    "1 - Rough Notes/To read, to watch.md",
+    "0 - Daily Notes/2024-05-13.md",
+    "0 - Daily Notes/2024-05-14.md",
+    "Untitled.md",
+    "Habit Tracker.md",
+    "3 - Tags"
+  ]
+}

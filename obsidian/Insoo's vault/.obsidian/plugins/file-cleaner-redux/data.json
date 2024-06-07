@@ -1,0 +1,13 @@
+{
+  "deletionDestination": "system",
+  "excludeInclude": 0,
+  "excludedFolders": [
+    "3 - Tags/"
+  ],
+  "attachmentsExcludeInclude": 1,
+  "attachmentExtensions": [],
+  "deletionConfirmation": true,
+  "runOnStartup": false,
+  "removeFolders": false,
+  "ignoredFrontmatter": []
+}

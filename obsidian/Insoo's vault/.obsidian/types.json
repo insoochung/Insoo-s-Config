@@ -1,0 +1,25 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "exercise": "number",
+    "casualReadPages": "number",
+    "casualRead": "number",
+    "mathStudy": "number",
+    "mlStudy": "number",
+    "leetcode": "number",
+    "casualReadMinutes": "number",
+    "mathStudyMinutes": "number",
+    "mlStudyMinutes": "number",
+    "leetcodeMinutes": "number",
+    "alcoholBeers": "number",
+    "writingWords": "number",
+    "exerciseMinutes": "number",
+    "mood": "number",
+    "languageStudyMinutes": "number",
+    "aimlMinutes": "number",
+    "readingPages": "number",
+    "designMinutes": "number"
+  }
+}

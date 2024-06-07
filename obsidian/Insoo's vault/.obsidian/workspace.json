@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "75fa1573e090323b",
+    "type": "split",
+    "children": [
+      {
+        "id": "68364c04380907b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "809b893a0125bc5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "5 - Templates/Full Note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2dccd7ec57bedb6d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0011cc412990a44a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc892ec0bdcedf92",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "da9d64a1a0f8b811",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "db59c393eeb0759a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9d25862ed0f7fd62",
+    "type": "split",
+    "children": [
+      {
+        "id": "ac739e064caa615f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fb6546f8bcf061fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5 - Templates/Full Note.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cf96a5650e9fca96",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "5 - Templates/Full Note.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a3285119dceaf559",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1e722e26bc95569",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "5 - Templates/Full Note.md"
+              }
+            }
+          },
+          {
+            "id": "a26438d776920bcd",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "file-cleaner-redux:Clean files": false
+    }
+  },
+  "active": "809b893a0125bc5d",
+  "lastOpenFiles": [
+    "tmux commands.md",
+    "Habit Tracker.md",
+    "neovim setup.md",
+    "1 - Rough Notes/STEM OPT.md",
+    "1 - Rough Notes/Qualcomm stuff.md",
+    "1 - Rough Notes/Move to Menlo Park - Summer 2024.md",
+    "1 - Rough Notes/Quantization discussion with 김병욱.md",
+    "1 - Rough Notes/TODO list.md",
+    "2 - Main Notes/Calculus fundamentals (brilliant).md",
+    "2 - Main Notes/DIY C++ Inference Engines (you need it, and it's easy) - intro.md",
+    "0 - Daily Notes/2024-05-22.md",
+    "0 - Daily Notes/2024-05-23.md",
+    "0 - Daily Notes/2024-05-24.md",
+    "0 - Daily Notes/2024-05-25.md",
+    "0 - Daily Notes/2024-05-26.md",
+    "1 - Rough Notes/_assets/Move to Menlo Park - Summer 2024/20240529162531729.pdf",
+    "1 - Rough Notes/US taxes.md",
+    "1 - Rough Notes/_assets/US taxes/20240529091212851.pdf",
+    "1 - Rough Notes/_assets/US taxes",
+    "Adobe Scan May 29, 2024.pdf",
+    "3 - Tags/tax.md",
+    "2 - Main Notes/AdaRound.md",
+    "3 - Tags/tools.md",
+    "2 - Main Notes/Trigonometric identities.md",
+    "3 - Tags/trigonometry.md",
+    "2 - Main Notes/Calculus in a nutshell (brilliant).md",
+    "2 - Main Notes/_assets/Calculus fundamentals (brilliant)",
+    "2 - Main Notes/_assets/Calculus fundamentals (brilliant)/20240529091213090.png",
+    "1 - Rough Notes/Compiler-aware Python libraries.md",
+    "0 - Daily Notes/2024-05-20.md",
+    "0 - Daily Notes/2024-05-21.md",
+    "2 - Main Notes/Common factorization.md",
+    "2 - Main Notes/_assets/SignRound",
+    "2 - Main Notes/_assets/SignRound/20240529091213487.png",
+    "2 - Main Notes/_assets/SignRound/20240529091213470.png",
+    "2 - Main Notes/_assets/SignRound/20240529091213460.png",
+    "2 - Main Notes/_assets/SignRound/20240529091213441.png",
+    "2 - Main Notes/_assets/SignRound/20240529091213429.png",
+    "2 - Main Notes/_assets/SignRound/20240529091213417.png",
+    "2 - Main Notes/_assets/SignRound/20240529091213400.png",
+    "2 - Main Notes/_assets/AutoRound/20240521134620025.png",
+    "2 - Main Notes/_assets/SignRound/20240529091213306.png",
+    "2 - Main Notes/_assets/AutoRound",
+    "2 - Main Notes/_assets/Calculus in a nutshell (brilliant)",
+    "2 - Main Notes/_assets/Non-destructive way of cleaning your Gmail account (semi-automatic)",
+    "6 - Main Notes/_assets/Gmail clean up"
+  ]
+}
